@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**collinsMutai/collinsMutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a software developer.
 
 - 🔭 I’m currently working on TypeScript, NodeJS, Angular, MSSQL, Python, Flask, PostgreSQL
