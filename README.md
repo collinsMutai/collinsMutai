@@ -11,7 +11,7 @@ I'm a software developer.
 ### What my Skills Set Looks like?
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular.
 - **Backend:** NodeJS, Express, Python, Flask.
-- **Databases:** SQL, MSSQL,PostgreSQL.
+- **Databases:** SQL, MSSQL, PostgreSQL.
 - **CMS:** WordPress, Shopify, Square.
 
 
