@@ -8,3 +8,10 @@ I'm a software developer.
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/collins-mutai/) or email me at [collinsfrontenddev@gmail.com](mailto:collinsfrontenddev@gmail.com)
 - ⚡ Fun fact: I love the outdoors, cooking and photography. 😄
 
+### What my Skills Set Looks like?
+- ** Frontend: ** HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular.
+- ** Backend: ** NodeJS, Express, Python, Flask.
+- ** Databases: ** SQL, MSSQL,PostgreSQL.
+- ** CMS: ** WordPress, Shopify, Square.
+
+
