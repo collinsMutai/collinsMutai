@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer.
+I'm a web developer.
 
 - 🔭 I’m currently working with TypeScript, NodeJS, Angular, MSSQL, Python, Flask, & PostgreSQL.
 - 🌱 I’m interested in software developer role.
