@@ -9,9 +9,9 @@ I'm a web developer.
 - ⚡ Fun fact: I love the outdoors, cooking and photography. 😄
 
 ### What my Skills Set Looks like?
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular.
+- **Frontend:** HTML, CSS, Bootstrap, Material, JavaScript, TypeScript, Angular.
 - **Backend:** NodeJS, Express, Python, Flask.
-- **Databases:** SQL, MSSQL, PostgreSQL.
+- **Databases:** SQL, MSSQL, PostgreSQL, MongoDB.
 - **CMS:** WordPress, Shopify, Square.
 
 
