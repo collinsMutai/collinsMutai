@@ -1,17 +1,46 @@
-### Hi there 👋
+# 👋 Hi, I'm Collins Mutai
 
-I'm a web developer.
+🚀 **Full-Stack Web Developer (2+ Years Experience)**  
+I build scalable, user-focused web applications using **React, Angular, and Node.js**.  
+Experienced in delivering production-ready solutions, collaborating in Agile teams, and solving real-world business problems.
 
-- 🔭 I’m currently working with React, TypeScript, NodeJS, Express, Angular, SQL & MongoDB.
-- 🌱 I’m interested in web developer role.
-- 👯 I’m looking to contribute on open source projects and collaborate on fullstack web applications.
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/collins-mutai/) or email me at [collinsfrontenddev@gmail.com](mailto:collinsfrontenddev@gmail.com)
-- ⚡ Fun fact: I love the outdoors, cooking and photography. 😄
+---
 
-### What my Skills Set Looks like?
-- **Frontend:** HTML, CSS, Bootstrap, Material, JavaScript, TypeScript, React, Angular.
-- **Backend:** NodeJS, Express, Python, Flask.
-- **Databases:** SQL, MSSQL, PostgreSQL, MongoDB.
-- **CMS:** WordPress, Shopify, Square.
+## 🧠 Core Skills
+- **Frontend:** React, Angular, TypeScript, JavaScript, HTML, CSS  
+- **Backend:** Node.js, Express, Python, Flask  
+- **Databases:** MongoDB, PostgreSQL, MSSQL  
+- **Other:** REST APIs, Responsive UI/UX, Payments Integration, Deployment  
 
+---
 
+## 💼 Experience Highlights
+- Built and deployed full-stack applications for startups & small businesses  
+- Integrated payment systems (M-Pesa, PayPal, Stripe, Pesapal)  
+- Optimized frontend performance and responsive design  
+- Worked in Agile, cross-functional teams  
+- Maintained and migrated RESTful APIs  
+
+---
+
+## 🎓 Education
+- **Associate Degree in Computer Science** — University of the People  
+- **Full Stack Web Developer** — Udacity  
+
+---
+
+## 🌱 Open To
+- Full-time or contract **Web / Full-Stack Developer roles**  
+- Open-source collaboration  
+
+---
+
+## 📫 Contact
+- 🌐 Portfolio: https://collinsmutai.com  
+- 💼 LinkedIn: https://linkedin.com/in/collins-mutai  
+- 📧 Email: collinsfrontenddev@gmail.com  
+- 💻 GitHub: https://github.com/collinsMutai  
+
+---
+
+⭐ *Let’s build impactful software together.*
